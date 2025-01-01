@@ -1,7 +1,7 @@
 package com.devstudios.store.app.purchase.products.application.interfaces.services;
 
 
-import com.devstudios.store.app.commons.entities.Product;
+import com.devstudios.store.app.commons.entities.store.Product;
 
 import reactor.core.publisher.Mono;
 
